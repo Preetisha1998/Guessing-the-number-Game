@@ -113,7 +113,6 @@ while True:
 
 
 # That's it! You've just programmed your first game!
-# 
-# In the next section we'll learn how to turn some of these repetitive actions into *functions* that can be called whenever we need them.
 
-# ### Good Job!
+
+
